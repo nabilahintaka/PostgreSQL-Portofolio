@@ -1,13 +1,3 @@
-/*
-=================================================
-Graded Challenge 1
-
-Nama  : Nabilah Putri Intaka
-Batch : CODA-RMT-003
-
-=================================================
-*/
-
 -- Create staging table
 CREATE TABLE movies_staging(
 	id VARCHAR,
