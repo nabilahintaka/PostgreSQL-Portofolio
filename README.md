@@ -13,8 +13,8 @@ This is a repository to showcase my data analytics skills and projects that i ge
 
 ---
 
-Dataset Information
-The dataset used is already in the question repository with the name movies.csv. Here is the column information:
+# Dataset Information
+The dataset used is already in the repository with the name movies.csv. Here is the column information:
 
 |Column|Data Type|
 |---|---|
