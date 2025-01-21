@@ -12,8 +12,6 @@ This is a repository to showcase my data analytics skills and projects that i ge
 - Able to fill data into table (DML)
 
 ---
-# Cases
-
 # Dataset Information
 The dataset used is already in the repository with the name movies.csv. Here is the column information:
 
@@ -30,7 +28,7 @@ The dataset used is already in the repository with the name movies.csv. Here is 
 |production_countries|Array|
 
 ---
-
+# Cases
 You are a Data Engineer who is asked to manage movie data for a streaming service provider. You need to do the following steps:
 
 # 1. Create Database
