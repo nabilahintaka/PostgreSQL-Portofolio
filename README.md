@@ -12,6 +12,7 @@ This is a repository to showcase my data analytics skills and projects that i ge
 - Able to fill data into table (DML)
 
 ---
+# Cases
 
 # Dataset Information
 The dataset used is already in the repository with the name movies.csv. Here is the column information:
